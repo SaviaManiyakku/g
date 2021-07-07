@@ -1,0 +1,41 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 10px floralwhite;
+    background-color:rgb(106, 89, 117);
+    color:honeydew;
+    font-family: 'Festive', cursive;
+    line-height:2;
+}
+
+.note{
+    font-size:20px;
+    color:rgb(250, 250, 250);
+    background-color:B19CD9;
+border-radius: 20px;
+}
+
+.footer_div{
+position:fixed;
+color:rgb(255, 255, 255);
+bottom:0;
+width:100%;
+background-color:rebeccapurple;
+line-height: 3;
+text-align:center;
+font-family: 'Festive', cursive;
+font-size:20px;
+}
+
+#canvas{
+    border:3px rebeccapurple;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px rgb(133, 52, 199);
+}
+
+.background_purple{
+    background-size:cover;
+    background-position: center;
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2020/09/14/purple-haze-wallpaper.jpg);
+}
